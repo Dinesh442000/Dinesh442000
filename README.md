@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Structure and Algorithm
 - 🌱 I’m currently learning JavaScript 
 
+![Uploading image.png…]()
 
 <!---
 Dinesh442000/Dinesh442000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
