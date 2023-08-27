@@ -1,7 +1,7 @@
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<p>
+<p align="center">
   Hi My Name is Dinesh Choudhary
 </p>
 
