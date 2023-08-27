@@ -1,11 +1,11 @@
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-- 👋 Hi, I’m @Dinesh442000
-- 👀 I’m interested in Data Structure and Algorithm
-- 🌱 I’m currently learning JavaScript
+👋 Hi, I’m @Dinesh442000
+👀 I’m interested in Data Structure and Algorithm
+🌱 I’m currently learning JavaScript
 
-- <p align="center">
+ <p align="center">
   <a href="https://linkedin.com/in/dinesh-choudhary-95b47319a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
