@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JavaScript
 
 - <p align="center">
-  <a href="https://linkedin.com/in/dinesh-choudhary">
+  <a href="https://linkedin.com/in/dinesh-choudhary-95b47319a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dchoudhary442000@gmail.com">
