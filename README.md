@@ -1,9 +1,9 @@
 
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-👋 Hi, I’m @Dinesh442000
-👀 I’m interested in Data Structure and Algorithm
-🌱 I’m currently learning JavaScript
+<p>
+  Hi My Name is Dinesh Choudhary
+</p>
 
  <p align="center">
   <a href="https://linkedin.com/in/dinesh-choudhary-95b47319a/">
