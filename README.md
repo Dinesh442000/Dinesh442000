@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Choudhary</h1>
-<h3 align="center">A passionate frontend developer from India. Currently learning React to Develop large scale applications.</h3>
+<h3 align="center">A passionate frontend developer and Data enthusiast from India. Currently learning React to Develop large scale applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh442000&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh442000" /> </p>
 
