@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Netflix GPT**
 
-- 🌱 I’m currently learning **React, Redux, Node**
+- 🌱 I’m currently learning **React, Selenium, Jenkins
 
-- 👯 I’m looking to collaborate on **React Dev**
-
-- 💬 Ask me about **react**
+- 👯 I’m looking to collaborate on **React Dev** and Automation Dev.
 
 - 📫 How to reach me **dchoudhary442000@gmail.com**
 
